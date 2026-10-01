@@ -1,14 +1,12 @@
 ---
-title: Firefly 代码块示例
-published: 1970-01-03
+title: 代码块与语法高亮示例
+published: 2026-09-30
 pinned: false
-description: 在Firefly中使用表达性代码的代码块在 Markdown 中的外观。
-tags: [Markdown, Firefly]
-category: 文章示例
+description: "本站代码块的展示效果：行号、标题、高亮行、折叠、代码组等。"
+tags: [Markdown, 代码, 写作]
+category: 写作与站务
 image: ./images/firefly3.avif
 slug: code-examples
-series: "Firefly 功能示例2"
-seriesOrder: 5
 ---
 
 在这里，我们将探索如何使用 [Expressive Code](https://expressive-code.com/) 展示代码块。提供的示例基于官方文档，您可以参考以获取更多详细信息。

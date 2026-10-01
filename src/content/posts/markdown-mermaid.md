@@ -1,13 +1,11 @@
 ---
-title: Markdown Mermaid 图表
-published: 1970-01-01
+title: 用 Mermaid 画流程图与时序图
+published: 2026-09-30
 pinned: false
-description: 一个包含 Mermaid 的 Markdown 博客文章简单示例。
-tags: [Markdown, 博客, Mermaid, Firefly]
-category: 文章示例
+description: "在笔记里画流程图、时序图、类图、状态图：Mermaid 语法示例。"
+tags: [Mermaid, 图表, 写作]
+category: 写作与站务
 slug: markdown-mermaid
-series: "Firefly 功能示例2"
-seriesOrder: 3
 ---
 ## Markdown 中 Mermaid 图表完整指南
 

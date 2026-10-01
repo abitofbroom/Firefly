@@ -1,27 +1,36 @@
-# 关于我 / About Me
+# 关于我
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好，我是 **abitofbroom**。
 
-## 🛠️ 关于本站
+这里是我的学习笔记博客。建它的原因很简单：学过的东西如果不写下来，过几周就只剩下“我好像在哪看过”的印象。所以我把正在学的、踩过的坑、想明白的地方都记在这里。
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+## 我在学什么
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+| 方向 | 具体内容 |
+| --- | --- |
+| AI 与机器学习 | Python 工具链、经典机器学习、深度学习、大模型应用 |
+| 编程语言 | Python、C++、Java |
+| 嵌入式开发 | C 语言、单片机与 STM32、外设驱动、RTOS |
+| 读书与课程笔记 | 教材、公开课、技术书的读书笔记 |
 
+每个方向我都写了一篇持续更新的索引文章，用来记录学习路线和进度：
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+- [AI 与机器学习学习路线](/posts/ai/ai-ml-roadmap/)
+- [编程语言学习记录](/posts/code/programming-languages/)
+- [嵌入式开发学习路线](/posts/embedded/embedded-roadmap/)
+- [读书与课程笔记：书单与课程](/posts/notes/reading-and-course-notes/)
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+## 关于这个站点
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+- 使用 [Astro](https://astro.build/) 构建，主题是 [Firefly](https://github.com/CuteLeaf/Firefly)（基于 [Fuwari](https://github.com/saicaca/fuwari) 二次开发）
+- 源码托管在 [GitHub](https://github.com/abitofbroom/Firefly)，推送到 `master` 分支后由 GitHub Actions 自动构建，发布到 GitHub Pages
+- 站点地址：<https://blog.abitofbroom.390831000.xyz/>
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
+## 怎么找到我
 
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+- GitHub：[@abitofbroom](https://github.com/abitofbroom)
+- 订阅更新：[RSS](/rss/) 或 [Atom](/atom/)
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+*如果某篇笔记帮到了你，或者发现了写错的地方，欢迎到 GitHub 上提 issue 告诉我。*

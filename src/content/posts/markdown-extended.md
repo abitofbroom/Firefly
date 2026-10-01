@@ -1,14 +1,11 @@
 ---
-title: Markdown 扩展功能
-published: 1970-01-01
-updated: 1970-01-01
-description: "了解 Firefly 中的 Markdown 功能"
+title: Markdown 扩展语法（提示框、GitHub 卡片等）
+published: 2026-09-30
+description: "本站支持的一些 Markdown 扩展语法：GitHub 仓库卡片、提示框、图片网格等。"
 image: ""
-tags: [演示, 示例, Markdown, Firefly]
-category: "文章示例"
+tags: [Markdown, 写作]
+category: 写作与站务
 slug: markdown-extended
-series: "Firefly 功能示例2"
-seriesOrder: 2
 ---
 
 ## GitHub 仓库卡片
