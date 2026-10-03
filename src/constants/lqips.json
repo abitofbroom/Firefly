@@ -34,5 +34,9 @@
   "public:assets/images/sponsor/alipay.png": "8ebbde91bedf93c0e0",
   "public:assets/images/ad/ad1.webp": "a1b8b68a8e918c8f93",
   "src:content/projects/images/firefly.avif": "b5b0b3bcb6bbe0e0df",
-  "src:assets/images/avatar.avif": "e3d4d6e9d5d6e7d4d3"
+  "src:assets/images/avatar.avif": "e3d4d6e9d5d6e7d4d3",
+  "src:content/posts/embedded/images/image-20261003152347162.png": "f4f4f4f5f5f5e4e4e4",
+  "src:content/posts/embedded/images/image-20261003152333724.png": "f3f3f3f5f5f5e7e7e7",
+  "src:content/posts/embedded/images/image-20260927215453010.png": "cbd3e1e4d1c3d1c6cf",
+  "src:content/posts/embedded/images/image-20260927213655712.png": "efefeff4f3f3f0f0ef"
 }
