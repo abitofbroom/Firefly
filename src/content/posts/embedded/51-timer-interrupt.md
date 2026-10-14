@@ -69,7 +69,7 @@ TCON = Time Control 定时器/计数器控制寄存器
 
 TF = Time Flag
 
-TR = Time Reset（应该是吧）
+TR = Timer Run（定时器运行控制位，置 1 才开始计数）
 
 TMOD = Time Mode 定时器/计数器工作模式寄存器（不可位寻址——只能整体赋值）
 
