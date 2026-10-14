@@ -65,6 +65,16 @@ image: ""
 | 日期 | 笔记 | 语言 |
 | --- | --- | --- |
 | 2026-10-01 | 本篇 | Python / C++ / Java |
+| 2026-08-10 | [C++ 数组与选择排序：知识点与错题本](/posts/code/cpp-arrays-selection-sort/) | C++ |
+| 2026-08-11 | [C++ 的 static、引用、返回指针与作用域](/posts/code/cpp-static-reference-pointer/) | C++ |
+| 2026-08-14 | [C++ 通讯录管理系统（8.14 作业总结）](/posts/code/cpp-contact-manager/) | C++ |
+| 2026-08-16 | [C++ 洛谷综合练习错题本](/posts/code/cpp-luogu-mistakes/) | C++ |
+| 2026-08-19 | [C 语言入门：代码与计算机执行的原理、四则运算](/posts/code/c-intro-arithmetic/) | C |
+| 2026-08-19 | [C 语言的数据、变量与常量](/posts/code/c-data-variables-constants/) | C |
+| 2026-08-23 | [C 语言的表达式、运算符与优先级](/posts/code/c-expressions-operators/) | C |
+| 2026-08-23 | [C 语言的 if 与 switch 判断](/posts/code/c-if-switch/) | C |
+| 2026-08-23 | [C 语言的 while、do-while 与 for 循环](/posts/code/c-loops/) | C |
+| 2026-09-23 | [洛谷 P1909 买铅笔：题解与思路](/posts/code/cpp-luogu-p1909/) | C++ |
 
 ## 常用资源
 
