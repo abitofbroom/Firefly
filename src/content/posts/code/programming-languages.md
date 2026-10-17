@@ -75,6 +75,7 @@ image: ""
 | 2026-08-23 | [C 语言的 if 与 switch 判断](/posts/code/c-if-switch/) | C |
 | 2026-08-23 | [C 语言的 while、do-while 与 for 循环](/posts/code/c-loops/) | C |
 | 2026-09-23 | [洛谷 P1909 买铅笔：题解与思路](/posts/code/cpp-luogu-p1909/) | C++ |
+| 2026-10-16 | [C 语言课堂笔记：控制结构、关系与逻辑表达式（10.16）](/posts/code/c-class-1016/) | C |
 
 ## 常用资源
 

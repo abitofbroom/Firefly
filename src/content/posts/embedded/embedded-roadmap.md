@@ -32,6 +32,7 @@ seriesOrder: 1
 - [x] 数码管：静态显示、动态扫描（输出扫描）
 - [x] 数码管消影：数据传输延迟导致的串位与重影问题
 - [x] LCD1602 液晶显示（含接线与调试踩坑）
+- [ ] LCD 点阵屏：段选位选交替、消影处理
 - [ ] 蜂鸣器与继电器
 - [ ] OLED 屏（I2C / SPI 接口）
 
@@ -82,6 +83,7 @@ seriesOrder: 1
 | 2026-09-27 | [51 单片机定时器与中断系统](/posts/embedded/51-timer-interrupt/) | 定时器 T0/T1、中断、流水灯、闹钟 |
 | 2026-10-01 | [51 单片机串口通信（UART）](/posts/embedded/51-uart/) | 串口硬件、工作模式、数据帧格式 |
 | 2026-10-03 | [51 单片机波特率计算公式与初值速查表](/posts/embedded/51-uart-baudrate/) | 波特率公式、TH1 计算、速查表 |
+| 2026-10-16 | [51 单片机 LCD 点阵屏与 sfr、sbit](/posts/embedded/51-lcd-matrix/) | 点阵屏扫描、sfr/sbit 声明、位寻址 |
 
 ## 常用资源
 
