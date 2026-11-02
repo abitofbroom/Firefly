@@ -87,6 +87,7 @@ seriesOrder: 1
 | 2026-10-17 | [51 单片机 LED 点阵屏显示动画：74HC595、扫描与字模](/posts/embedded/51-led-matrix-animation/) | 595 时序、逐列扫描、字模、动画偏移 |
 | 2026-10-19 | [51 单片机 DS1302 实时时钟：寄存器、时序与 LCD1602 显示](/posts/embedded/51-ds1302-rtc/) | 命令字节、BCD、读写时序、常见坑 |
 | 2026-10-22 | [51 单片机 DS1302 可调时钟：MODE 切换、字段闪烁与一个 C51 编译坑](/posts/embedded/51-ds1302-adjustable-clock/) | 按键设置时间、1Hz 闪烁、C208 与 BOM 坑 |
+| 2026-11-02 | [专注计时器：状态机 + 8 位数码管 + 串口协议](/posts/embedded/focus-timer-state-machine/) | 状态机、HC573、动态扫描、串口文本协议 |
 
 ## 常用资源
 
